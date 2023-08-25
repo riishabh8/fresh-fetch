@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\rishabhdubey\\Documents\\rishabh-dubey\\Exit Test\\api\\api\\wwwroot\\uploads\\04b818a4-2e37-44b7-878f-0b3de11caed1_-original-imagehgyvbbxtsgr.webp",
+      "PackagePath": "staticwebassets\\uploads\\04b818a4-2e37-44b7-878f-0b3de11caed1_-original-imagehgyvbbxtsgr.webp"
+    },
+    {
+      "Id": "C:\\Users\\rishabhdubey\\Documents\\rishabh-dubey\\Exit Test\\api\\api\\wwwroot\\uploads\\07e666c9-252d-458f-8ef2-8d61173463c4_-original-imagnwz6fzsxw8bc.webp",
+      "PackagePath": "staticwebassets\\uploads\\07e666c9-252d-458f-8ef2-8d61173463c4_-original-imagnwz6fzsxw8bc.webp"
+    },
+    {
+      "Id": "C:\\Users\\rishabhdubey\\Documents\\rishabh-dubey\\Exit Test\\api\\api\\wwwroot\\uploads\\11b5e104-8487-4a03-af3a-273f7cedda22_-original-imagpuzzjbhsf66f.webp",
+      "PackagePath": "staticwebassets\\uploads\\11b5e104-8487-4a03-af3a-273f7cedda22_-original-imagpuzzjbhsf66f.webp"
+    },
+    {
+      "Id": "C:\\Users\\rishabhdubey\\Documents\\rishabh-dubey\\Exit Test\\api\\api\\wwwroot\\uploads\\155999cf-86a1-43d9-9e33-ca17221ed66f_180-cashew-butterscotch-ice-cream-flavor-milkshake-tetrapack-original-imagmmhb6dhqffru.webp",
+      "PackagePath": "staticwebassets\\uploads\\155999cf-86a1-43d9-9e33-ca17221ed66f_180-cashew-butterscotch-ice-cream-flavor-milkshake-tetrapack-original-imagmmhb6dhqffru.webp"
+    },
+    {
+      "Id": "C:\\Users\\rishabhdubey\\Documents\\rishabh-dubey\\Exit Test\\api\\api\\wwwroot\\uploads\\1aebd457-86e3-4dea-89cc-e6a8d8a09bb7_-original-imag9hwy5ugy2wp4.webp",
+      "PackagePath": "staticwebassets\\uploads\\1aebd457-86e3-4dea-89cc-e6a8d8a09bb7_-original-imag9hwy5ugy2wp4.webp"
+    },
+    {
+      "Id": "C:\\Users\\rishabhdubey\\Documents\\rishabh-dubey\\Exit Test\\api\\api\\wwwroot\\uploads\\3b1ad24b-8b3f-4cdf-8a45-c33eff29883e_-original-imagjyh8hhcytaz5.webp",
+      "PackagePath": "staticwebassets\\uploads\\3b1ad24b-8b3f-4cdf-8a45-c33eff29883e_-original-imagjyh8hhcytaz5.webp"
+    },
+    {
+      "Id": "C:\\Users\\rishabhdubey\\Documents\\rishabh-dubey\\Exit Test\\api\\api\\wwwroot\\uploads\\b7eb4197-bb54-425e-a384-9a7a0c9bc7dd_-original-imag9hwy5ugy2wp4.webp",
+      "PackagePath": "staticwebassets\\uploads\\b7eb4197-bb54-425e-a384-9a7a0c9bc7dd_-original-imag9hwy5ugy2wp4.webp"
+    },
+    {
+      "Id": "C:\\Users\\rishabhdubey\\Documents\\rishabh-dubey\\Exit Test\\api\\api\\wwwroot\\uploads\\ca577d2e-100b-4e08-bfd2-b32d09db3918_1-blue-detergent-powder-wheel-original-imag56g8uuver5gn.webp",
+      "PackagePath": "staticwebassets\\uploads\\ca577d2e-100b-4e08-bfd2-b32d09db3918_1-blue-detergent-powder-wheel-original-imag56g8uuver5gn.webp"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.api.props",
+      "PackagePath": "build\\api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.api.props",
+      "PackagePath": "buildMultiTargeting\\api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.api.props",
+      "PackagePath": "buildTransitive\\api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
